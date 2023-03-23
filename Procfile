@@ -1,0 +1,1 @@
+bot: pyhton main.py
